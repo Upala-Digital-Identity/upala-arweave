@@ -1,0 +1,17 @@
+{
+  "name": "upala-arweave",
+  "version": "1.0.0",
+  "description": "Upala<>Arweave DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Peter Porobov",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.8.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
